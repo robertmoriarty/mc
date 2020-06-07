@@ -1,0 +1,29 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Suitable for multiplayer. Only one player is required to sleep to cycle through the night.",
+        "name": "§7[v3.0]§r One-player Sleep System [RP]",
+        "uuid": "F7FCEE50-D9DC-4B43-89BE-D77D3FD28B7A",
+        "version": [0, 3, 0]
+    },    
+    "modules": [
+        {
+            "description": "Created by r4isen. Do not distribute unfairly",
+            "type": "resources",
+			"uuid": "6552D110-8A3B-40EA-87AD-DAF03E71200C",
+            "version": [0, 3, 0]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "C70898E6-603E-4044-AF5E-0AC6A920B971", 
+            "version": [0, 3, 0]
+        }
+    ],
+    "metadata": {
+            "authors": [
+			"r4isen1920"
+             ],
+            "url": "https://mcpedl.com/user/r4isen1920"
+     }
+}
